@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Salvador\\source\\repos\\FravegaSimpGarciaDelfabRo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B844534C-C452-48B6-B533-D162BF0500B8}|FravegaSimpGarciaDelfabRo\\FravegaSimpGarciaDelfabRo.vbproj|c:\\users\\salvador\\source\\repos\\fravegasimpgarciadelfabro\\fravegasimpgarciadelfabro\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B844534C-C452-48B6-B533-D162BF0500B8}|FravegaSimpGarciaDelfabRo\\FravegaSimpGarciaDelfabRo.vbproj|solutionrelative:fravegasimpgarciadelfabro\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B844534C-C452-48B6-B533-D162BF0500B8}|FravegaSimpGarciaDelfabRo\\FravegaSimpGarciaDelfabRo.vbproj|c:\\users\\salvador\\source\\repos\\fravegasimpgarciadelfabro\\fravegasimpgarciadelfabro\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B844534C-C452-48B6-B533-D162BF0500B8}|FravegaSimpGarciaDelfabRo\\FravegaSimpGarciaDelfabRo.vbproj|solutionrelative:fravegasimpgarciadelfabro\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B844534C-C452-48B6-B533-D162BF0500B8}|FravegaSimpGarciaDelfabRo\\FravegaSimpGarciaDelfabRo.vbproj|c:\\users\\salvador\\source\\repos\\fravegasimpgarciadelfabro\\fravegasimpgarciadelfabro\\electro.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B844534C-C452-48B6-B533-D162BF0500B8}|FravegaSimpGarciaDelfabRo\\FravegaSimpGarciaDelfabRo.vbproj|solutionrelative:fravegasimpgarciadelfabro\\electro.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B844534C-C452-48B6-B533-D162BF0500B8}|FravegaSimpGarciaDelfabRo\\FravegaSimpGarciaDelfabRo.vbproj|c:\\users\\salvador\\source\\repos\\fravegasimpgarciadelfabro\\fravegasimpgarciadelfabro\\heladera.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B844534C-C452-48B6-B533-D162BF0500B8}|FravegaSimpGarciaDelfabRo\\FravegaSimpGarciaDelfabRo.vbproj|solutionrelative:fravegasimpgarciadelfabro\\heladera.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B844534C-C452-48B6-B533-D162BF0500B8}|FravegaSimpGarciaDelfabRo\\FravegaSimpGarciaDelfabRo.vbproj|c:\\users\\salvador\\source\\repos\\fravegasimpgarciadelfabro\\fravegasimpgarciadelfabro\\lavarropas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B844534C-C452-48B6-B533-D162BF0500B8}|FravegaSimpGarciaDelfabRo\\FravegaSimpGarciaDelfabRo.vbproj|solutionrelative:fravegasimpgarciadelfabro\\lavarropas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lavarropas.vb",
+              "DocumentMoniker": "C:\\Users\\Salvador\\source\\repos\\FravegaSimpGarciaDelfabRo\\FravegaSimpGarciaDelfabRo\\Lavarropas.vb",
+              "RelativeDocumentMoniker": "FravegaSimpGarciaDelfabRo\\Lavarropas.vb",
+              "ToolTip": "C:\\Users\\Salvador\\source\\repos\\FravegaSimpGarciaDelfabRo\\FravegaSimpGarciaDelfabRo\\Lavarropas.vb",
+              "RelativeToolTip": "FravegaSimpGarciaDelfabRo\\Lavarropas.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-09T20:27:10.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Heladera.vb",
+              "DocumentMoniker": "C:\\Users\\Salvador\\source\\repos\\FravegaSimpGarciaDelfabRo\\FravegaSimpGarciaDelfabRo\\Heladera.vb",
+              "RelativeDocumentMoniker": "FravegaSimpGarciaDelfabRo\\Heladera.vb",
+              "ToolTip": "C:\\Users\\Salvador\\source\\repos\\FravegaSimpGarciaDelfabRo\\FravegaSimpGarciaDelfabRo\\Heladera.vb",
+              "RelativeToolTip": "FravegaSimpGarciaDelfabRo\\Heladera.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-09T20:17:57.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Electro.vb",
+              "DocumentMoniker": "C:\\Users\\Salvador\\source\\repos\\FravegaSimpGarciaDelfabRo\\FravegaSimpGarciaDelfabRo\\Electro.vb",
+              "RelativeDocumentMoniker": "FravegaSimpGarciaDelfabRo\\Electro.vb",
+              "ToolTip": "C:\\Users\\Salvador\\source\\repos\\FravegaSimpGarciaDelfabRo\\FravegaSimpGarciaDelfabRo\\Electro.vb",
+              "RelativeToolTip": "FravegaSimpGarciaDelfabRo\\Electro.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-09T19:59:26.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\Salvador\\source\\repos\\FravegaSimpGarciaDelfabRo\\FravegaSimpGarciaDelfabRo\\Form1.vb",
+              "RelativeDocumentMoniker": "FravegaSimpGarciaDelfabRo\\Form1.vb",
+              "ToolTip": "C:\\Users\\Salvador\\source\\repos\\FravegaSimpGarciaDelfabRo\\FravegaSimpGarciaDelfabRo\\Form1.vb",
+              "RelativeToolTip": "FravegaSimpGarciaDelfabRo\\Form1.vb",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwDQAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-09T19:59:07.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Salvador\\source\\repos\\FravegaSimpGarciaDelfabRo\\FravegaSimpGarciaDelfabRo\\Form1.vb",
+              "RelativeDocumentMoniker": "FravegaSimpGarciaDelfabRo\\Form1.vb",
+              "ToolTip": "C:\\Users\\Salvador\\source\\repos\\FravegaSimpGarciaDelfabRo\\FravegaSimpGarciaDelfabRo\\Form1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "FravegaSimpGarciaDelfabRo\\Form1.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-09T19:58:53.412Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

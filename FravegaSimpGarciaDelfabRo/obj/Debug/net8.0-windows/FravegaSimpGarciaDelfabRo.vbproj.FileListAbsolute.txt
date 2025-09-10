@@ -1,0 +1,17 @@
+C:\Users\Salvador\source\repos\FravegaSimpGarciaDelfabRo\FravegaSimpGarciaDelfabRo\bin\Debug\net8.0-windows\FravegaSimpGarciaDelfabRo.exe
+C:\Users\Salvador\source\repos\FravegaSimpGarciaDelfabRo\FravegaSimpGarciaDelfabRo\bin\Debug\net8.0-windows\FravegaSimpGarciaDelfabRo.deps.json
+C:\Users\Salvador\source\repos\FravegaSimpGarciaDelfabRo\FravegaSimpGarciaDelfabRo\bin\Debug\net8.0-windows\FravegaSimpGarciaDelfabRo.runtimeconfig.json
+C:\Users\Salvador\source\repos\FravegaSimpGarciaDelfabRo\FravegaSimpGarciaDelfabRo\bin\Debug\net8.0-windows\FravegaSimpGarciaDelfabRo.dll
+C:\Users\Salvador\source\repos\FravegaSimpGarciaDelfabRo\FravegaSimpGarciaDelfabRo\bin\Debug\net8.0-windows\FravegaSimpGarciaDelfabRo.pdb
+C:\Users\Salvador\source\repos\FravegaSimpGarciaDelfabRo\FravegaSimpGarciaDelfabRo\obj\Debug\net8.0-windows\FravegaSimpGarciaDelfabRo.Form1.resources
+C:\Users\Salvador\source\repos\FravegaSimpGarciaDelfabRo\FravegaSimpGarciaDelfabRo\obj\Debug\net8.0-windows\FravegaSimpGarciaDelfabRo.vbproj.GenerateResource.cache
+C:\Users\Salvador\source\repos\FravegaSimpGarciaDelfabRo\FravegaSimpGarciaDelfabRo\obj\Debug\net8.0-windows\FravegaSimpGarciaDelfabRo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salvador\source\repos\FravegaSimpGarciaDelfabRo\FravegaSimpGarciaDelfabRo\obj\Debug\net8.0-windows\FravegaSimpGarciaDelfabRo.AssemblyInfoInputs.cache
+C:\Users\Salvador\source\repos\FravegaSimpGarciaDelfabRo\FravegaSimpGarciaDelfabRo\obj\Debug\net8.0-windows\FravegaSimpGarciaDelfabRo.AssemblyInfo.vb
+C:\Users\Salvador\source\repos\FravegaSimpGarciaDelfabRo\FravegaSimpGarciaDelfabRo\obj\Debug\net8.0-windows\FravegaSimpGarciaDelfabRo.vbproj.CoreCompileInputs.cache
+C:\Users\Salvador\source\repos\FravegaSimpGarciaDelfabRo\FravegaSimpGarciaDelfabRo\obj\Debug\net8.0-windows\FravegaSimpGarciaDelfabRo.dll
+C:\Users\Salvador\source\repos\FravegaSimpGarciaDelfabRo\FravegaSimpGarciaDelfabRo\obj\Debug\net8.0-windows\refint\FravegaSimpGarciaDelfabRo.dll
+C:\Users\Salvador\source\repos\FravegaSimpGarciaDelfabRo\FravegaSimpGarciaDelfabRo\obj\Debug\net8.0-windows\FravegaSimpGarciaDelfabRo.pdb
+C:\Users\Salvador\source\repos\FravegaSimpGarciaDelfabRo\FravegaSimpGarciaDelfabRo\obj\Debug\net8.0-windows\FravegaSimpGarciaDelfabRo.genruntimeconfig.cache
+C:\Users\Salvador\source\repos\FravegaSimpGarciaDelfabRo\FravegaSimpGarciaDelfabRo\obj\Debug\net8.0-windows\ref\FravegaSimpGarciaDelfabRo.dll
+C:\Users\Salvador\source\repos\FravegaSimpGarciaDelfabRo\FravegaSimpGarciaDelfabRo\obj\Debug\net8.0-windows\FravegaSimpGarciaDelfabRo.Resources.resources
